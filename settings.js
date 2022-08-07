@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['918590634460'] //ur owner number
-global.ownername = "🦄Dream Guy Zack" //ur owner name
+global.ownername = "ᴀʀsʜɪᴅ㋛︎" //ur owner name
 global.ytname = "YT: Zack" //ur yt chanel name
 global.socialm = "GitHub: Zack" //ur github or insta name
 global.location = "India, Kerala" //ur location
@@ -70,7 +70,7 @@ global.botscript = 'https://github.com/Arshidka/ZACK' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🖤" //ur theme emoji
 global.packname = "Zack Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Zack" //ur sticker watermark author
+global.author = "Zack Bot By ᴀʀsʜɪᴅ㋛︎" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
